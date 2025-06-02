@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFlowStudent", "TaskFlowStudent.csproj", "{1258AA70-F6DF-4963-81E3-D343426E4182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1258AA70-F6DF-4963-81E3-D343426E4182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1258AA70-F6DF-4963-81E3-D343426E4182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1258AA70-F6DF-4963-81E3-D343426E4182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1258AA70-F6DF-4963-81E3-D343426E4182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90A9939-988B-42B2-B827-A33F7DFC8BCC}
+	EndGlobalSection
+EndGlobal

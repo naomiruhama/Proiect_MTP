@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|c:\\users\\eu\\desktop\\taskflowstudent\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|solutionrelative:views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\views\\edittaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|solutionrelative:views\\edittaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\views\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1258AA70-F6DF-4963-81E3-D343426E4182}|TaskFlowStudent.csproj|solutionrelative:views\\addtaskwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T20:18:20.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T20:17:08.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T18:38:53.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\EditTaskWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\EditTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\EditTaskWindow.xaml",
+              "RelativeToolTip": "Views\\EditTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T18:38:36.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTaskWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\AddTaskWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AddTaskWindow.xaml",
+              "ToolTip": "C:\\Users\\Eu\\Desktop\\TaskFlowStudent\\Views\\AddTaskWindow.xaml",
+              "RelativeToolTip": "Views\\AddTaskWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T18:38:29.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
