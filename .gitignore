@@ -1,0 +1,30 @@
+## Ignoră foldere generate automat
+bin/
+obj/
+
+## Ignoră fișierele de setări locale ale Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignoră fișiere temporare
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.dbmdl
+
+## Ignoră fișiere de baze de date locale (opțional)
+*.mdf
+*.ldf
+
+## Folderul .vs (Visual Studio cache)
+.vs/
+
+## Ignoră fișierele publicate
+*.publish.xml
+
+## Ignoră fișierele de configurare personale
+*.local.json
